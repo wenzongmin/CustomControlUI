@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VTLab", "VTLab\VTLab.csproj", "{A9F069C2-A113-422D-95D7-8AFD8FA629A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticHelper", "StaticHelper\StaticHelper.csproj", "{B3F8930C-5DF0-4D29-9C0E-770B3B76DBF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIControls", "UIControls\UIControls.csproj", "{EFFE69B5-0566-496C-AACF-00DCAC2A268D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F069C2-A113-422D-95D7-8AFD8FA629A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F069C2-A113-422D-95D7-8AFD8FA629A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F069C2-A113-422D-95D7-8AFD8FA629A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F069C2-A113-422D-95D7-8AFD8FA629A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F8930C-5DF0-4D29-9C0E-770B3B76DBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F8930C-5DF0-4D29-9C0E-770B3B76DBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F8930C-5DF0-4D29-9C0E-770B3B76DBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F8930C-5DF0-4D29-9C0E-770B3B76DBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFE69B5-0566-496C-AACF-00DCAC2A268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFE69B5-0566-496C-AACF-00DCAC2A268D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFE69B5-0566-496C-AACF-00DCAC2A268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFE69B5-0566-496C-AACF-00DCAC2A268D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C8A937F-03C6-4690-A3B9-B2666B4411B2}
+	EndGlobalSection
+EndGlobal
